@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@500&display=swap');
+/* font-family: 'Oswald', sans-serif; */
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+/* font-family: 'Merriweather', serif; */
+
+:root{
+  --bg-prime:rgb(31, 41, 55);
+  --bg-second:rgb(17, 24, 39);
+  --bg-card:rgb(30, 41, 59);
+}
+
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  color: black;
+}
